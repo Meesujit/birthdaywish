@@ -1,5 +1,5 @@
 # Happy Birthday Card
-Deployment: (https://happybirthday-santoshini.netlify.app/)[Happy BirthDay]
+Deployment: [Happy BirthDay](https://happybirthday-santoshini.netlify.app/)
 A Customizable Web based birthday card to wish your friends and family in a unique way.
 
 Check out the Previews -
